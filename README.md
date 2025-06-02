@@ -15,10 +15,10 @@
 ## 🧠 About Me
 
 - 🎮 I’m passionate about **game development**, creative coding, and backend tech.
-- 📚 I’m currently studying **Multiplatform Application Development (DAM)**.
-- 🧱 I love building apps using Java, Spring Boot, Node.js, and SQL.
-- 🎯 Always learning new things like Docker, Unreal Engine, and frontend frameworks.
-- 🕹️ I’m also a content creator on YouTube where I share gaming videos and tech projects.
+- 📚 Currently studying **Multiplatform Application Development (DAM)**.
+- 🧱 Focused on building apps with Java, Spring Boot, Node.js, and SQL.
+- 🎯 Learning Docker, Unreal Engine, and frontend frameworks.
+- 🕹️ Content creator on YouTube sharing tech + gaming content.
 
 ---
 
@@ -35,11 +35,27 @@
 
 ---
 
-## 🚧 Projects I'm Working On
+## 🚀 Featured Projects
 
-- 🎴 **MagicBinder** — A card collection manager with admin/user roles and CRUD operations.
-- 📱 **LifeQuest** — A gamified habit tracker for students & gamers, inspired by RPGs.
-- 🔧 **Backend Boilerplate** — A reusable backend template with REST API + Docker + MariaDB.
+### 🔹 [MagicBinder](https://github.com/BorjaZG/MagicBinder)  
+Web application for managing card collections with user/admin roles and private collections.  
+*Tech:* `Java`, `JSP`, `Servlets`, `MariaDB`, `DAO Pattern`
+
+### 🔹 [StarWarsWeb](https://github.com/BorjaZG/StarWarsWeb)  
+A small web project that connects to an external API to display Star Wars data.  
+*Tech:* `HTML`, `CSS`, `JS`, `REST API`
+
+### 🔹 [library](https://github.com/BorjaZG/library)  
+Fullstack app with backend and frontend layers, focused on CRUD logic.  
+*Tech:* `Node.js`, `Express`, `JS`, `SQLite`
+
+---
+
+## 👥 Group Work
+
+### 🏢 [LetMeCode09](https://github.com/LetMeCode09) — GitHub Organization  
+Coding projects with friends from class 🤝  
+We’ve created and maintained collaborative repositories focused on fullstack development and integration.
 
 ---
 
@@ -54,7 +70,7 @@
 
 ## 📬 Contact Me
 
-- 📧 Gmail: borzg2000@gmail.com
+- 📧 Gmail: *your.email@gmail.com*
 - 📹 [YouTube Channel](https://www.youtube.com/@bejotaa_)
 - 💼 [LinkedIn](https://www.linkedin.com/in/borja-zorrilla-gracia)
 
