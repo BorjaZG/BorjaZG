@@ -54,7 +54,7 @@
 
 ## 📬 Contact Me
 
-- 📧 Gmail: *your.email@gmail.com*
+- 📧 Gmail: borzg2000@gmail.com
 - 📹 [YouTube Channel](https://www.youtube.com/@bejotaa_)
 - 💼 [LinkedIn](https://www.linkedin.com/in/borja-zorrilla-gracia)
 
