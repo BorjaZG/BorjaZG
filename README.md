@@ -18,7 +18,7 @@
 - 📚 Currently studying **Multiplatform Application Development (DAM)**.
 - 🧱 Focused on building apps with Java, Spring Boot, Node.js, and SQL.
 - 🎯 Learning Docker, Unreal Engine, and frontend frameworks.
-- 🕹️ Content creator on YouTube sharing tech + gaming content.
+- 🕹️ Content creator on YouTube gaming content.
 
 ---
 
@@ -70,7 +70,7 @@ We’ve created and maintained collaborative repositories focused on fullstack d
 
 ## 📬 Contact Me
 
-- 📧 Gmail: *your.email@gmail.com*
+- 📧 Gmail: *borzg2000@gmail.com*
 - 📹 [YouTube Channel](https://www.youtube.com/@bejotaa_)
 - 💼 [LinkedIn](https://www.linkedin.com/in/borja-zorrilla-gracia)
 
